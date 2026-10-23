@@ -28,7 +28,7 @@ public class Task25 {
 
 
     /**
-     * Читает с клавиатуры число n, а затем n целых чисел и выводит их сумму
+     *
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
